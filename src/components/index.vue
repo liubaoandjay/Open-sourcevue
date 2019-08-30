@@ -1,12 +1,12 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+    <div>
+        还是的身份第四届
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+    
 }
 </script>
 
